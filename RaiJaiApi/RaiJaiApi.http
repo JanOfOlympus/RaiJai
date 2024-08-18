@@ -1,6 +1,0 @@
-@RaiJaiApi_HostAddress = http://localhost:5100
-
-GET {{RaiJaiApi_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
